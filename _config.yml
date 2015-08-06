@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Будни программиста
 tagline:             
-url:                 http://dahko.github.io
+url:                 http://dahko.github.io/
 paginate:            0
-baseurl:             ""
+baseurl:             "http://dahko.github.io/"
 
 # Assets
 #
