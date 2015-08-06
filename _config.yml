@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Будни программиста
-tagline:             
-url:                 http://dahko.github.io/
-paginate:            0
-baseurl:             "http://dahko.github.io/"
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
 
 # Assets
 #
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Georgy Meshkov
-  url:               
-  email:             steed2005@gmail.com
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Custom vars
 version:             2.0.0
