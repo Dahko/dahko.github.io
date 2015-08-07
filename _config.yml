@@ -6,9 +6,9 @@ relative_permalinks: true
 
 # Setup
 title:               Программирование и отвага
-tagline:             ""
+tagline:             Блог о C++ и вообще
 url:                 http://dahko.github.io
-paginate:            1
+paginate:            10
 baseurl:             ""
 
 # Assets
