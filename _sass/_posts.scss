@@ -6,7 +6,7 @@
 .page,
 .post {
   margin-bottom: 4em;
-	font-family: Times, Georgia, serif;
+  //font-family: Times, Georgia, serif;
 }
 
 // Blog post or page title
@@ -18,8 +18,10 @@
 .page-title,
 .post-title {
   margin-top: 0;
-  font-family: Calibri, Arial, sans-serif;
-	font-size: 200%;
+  font-weight: 600;
+  font-size: 150%;
+  //font-family: Calibri, Arial, sans-serif;
+//	font-size: 200%;
 }
 
 // Meta data line below post title
@@ -28,7 +30,7 @@
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
-	font-family: Calibri, Arial, sans-serif;
+  //font-family: Calibri, Arial, sans-serif;
 }
 
 
