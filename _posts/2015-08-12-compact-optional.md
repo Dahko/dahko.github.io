@@ -8,6 +8,8 @@ title: Compact optional
 
 Простейшая реализация выглядит примерно так:
 
+<!--more-->
+
 {% highlight cpp %}
 template<typename T>
 class optional
